@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #aaa;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+form input[type=text], form input[type=email] {
+    width: 300px;
+    padding: 5px;
+    margin: 5px 0;
+}
